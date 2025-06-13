@@ -35,5 +35,5 @@ The app allows users to select a city, input property details, and get an instan
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/your-username/house-price-predictor.git
-- cd house-price-predictor
+- git clone https://github.com/venkatakoteswarao/house_price.git
+  
